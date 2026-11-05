@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948750530771",
+    "project_id": "sportsclubai-d30a4",
+    "storage_bucket": "sportsclubai-d30a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948750530771:android:fe25a38362395b685efc26",
+        "android_client_info": {
+          "package_name": "com.example.sportsclubai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMiWmPbIp_ht0IVd4HkM4mx4GnbiZ-PBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

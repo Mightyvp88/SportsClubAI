@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.SportsClubAI" parent="Theme.MaterialComponents.Light" />
+</resources>
